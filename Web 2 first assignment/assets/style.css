@@ -1,0 +1,11 @@
+.holder{
+    box-shadow: 10px 10px 40px #491709;  
+    background-color: #591C0B;
+    border-radius: 15px;
+}
+
+.btn, .btn-secondary{
+  color: #ffffff;
+  background-color: #979c92;
+  border-color: #979c92;
+}
